@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live App
+https://abhi599.github.io/task-planner/
+
+## Features
+Add new task
+Edit existing task
+Cancel out task(by clicking on it)
+Delete task
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/36357951/129838539-8572b2a9-94bb-4961-bb92-0a2ddd983407.png)
+![image](https://user-images.githubusercontent.com/36357951/129838580-6f724976-dc42-41b8-87de-ac98d7972c3d.png)
+![image](https://user-images.githubusercontent.com/36357951/129838602-e097681e-ed05-4788-b491-04515918a2b8.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
